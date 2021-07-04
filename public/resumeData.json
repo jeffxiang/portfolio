@@ -1,0 +1,177 @@
+{
+  "main": {
+    "name": "Jeff Xiang",
+    "headline": "Jeff Xiang",
+    "blurb": "Software Engineer @ Pinterest",
+    "occupation": "Asdf",
+    "description": "Insert description here",
+    "image": "profile_pic.JPG",
+    "bio": "After graduating from UC Berkeley with a Bachelor's degree in Computer Science, I became a full-time software engineer at Pinterest. I work on building hyper-scalable, real-time logging and data ingestion infrastructure that powers Pinterest. Outside of work, I enjoy playing basketball, discovering new music, and learning how to DJ.",
+    "email": "xiangjeff@gmail.com",
+    "phone": "",
+    "address": {
+      "country": "CA",
+      "city": "San Francisco",
+      "street": "(Your Street)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "resumedownload": "https://www.docdroid.net/0LWARv4/jun-han-jeff-xiang-resume-pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "http://linkedin.com/in/jeffxiang",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/jeffxiang",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "work": [
+      {
+        "company": "Pinterest",
+        "title": "Software Engineer, Logging Platform",
+        "years": "Mar 2020 - Present",
+        "description": "Build planet-scale, real-time logging & data ingestion infrastructure. Maintain 3000+ AWS EC2 instances running distributed data systems, such as Apache Kafka. Improve cross-region data mirroring stability and reliability, reducing related incidents by 80% year over year."
+      },
+      {
+        "company": "Pinterest",
+        "title": "Software Engineering Intern, Logging Platform",
+        "years": "May 2019 - Aug 2019",
+        "description": "Designed and implemented real-time visualization and monitoring system for Pinterest's data ingestion pipeline, enabling higher visibility of data flows across >10000 pipeline components and improving time-to-detection of critical pipeline issues by more than 60x."
+      },
+      {
+        "company": "NovuMind",
+        "title": "Quantitative Research Intern",
+        "years": "Jun 2018 - Nov 2018",
+        "description": "Designed and implemented a deep learning neural network for predicting high frequency financial asset returns (≥ 85% validation accuracy). Created a real-time financial data collection program and trading simulator for training and evaluating predictive model."
+      },
+      {
+        "company": "Berkeley Institute for Data Science",
+        "title": "Developer",
+        "years": "Aug 2017 - May 2018",
+        "description": "Conducted data-driven analysis to improve UC Berkeley's data science course design. Designed lab assignments for introductory data science connector course focused on sports analytics."
+      }
+    ],
+    "education": [
+      {
+        "school": "University of California, Berkeley",
+        "degree": "Bachelor's, Computer Science",
+        "graduated": "Aug 2016 - Dec 2019",
+        "description": ""
+      }
+    ],
+    "skillmessage": "The following is a non-exhaustive list of my skills.",
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "React",
+        "level": "75%"
+      },
+      {
+        "name": "C/C++",
+        "level": "50%"
+      },
+      {
+        "name": "Apache Kafka",
+        "level": "90%"
+      },
+      {
+        "name": "Apache Flink",
+        "level": "80%"
+      },
+      {
+        "name": "AWS",
+        "level": "80%"
+      },
+      {
+        "name": "Apache Airflow",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "head": "Here are some of my past projects.",
+    "projects": [
+      {
+        "title": "Simple Replicated Banking Service",
+        "description": "Computer Science Coursework",
+        "tools": [
+          "Elixir"
+        ],
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Wave (Mobile App)",
+        "description": "Summer 2020 Project",
+        "tools": [
+          "IoT",
+          "BLE",
+           "JavaScipt",
+           "React Native",
+           "Node.js"
+        ],
+        "image": "canadian-wanderlust.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Facebook Hack-A-Project 2020",
+        "description": "Facebook's Hackathon for students",
+        "tools": [
+          "JavaScipt",
+          "React",
+          "Node.js"
+        ],
+        "image": "canadian-wanderlust.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "C Compilter and MIPS CPU Simulator",
+        "description": "Computer Science Coursework",
+        "tools": [
+          "C++"
+        ],
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Physical Coordination Training Game",
+        "description": "First Year Project using FPGAs",
+        "tools": [
+          "C",
+          "Vivado HLS"
+        ],
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
